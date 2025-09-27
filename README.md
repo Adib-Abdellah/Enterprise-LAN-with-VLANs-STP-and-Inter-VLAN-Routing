@@ -43,10 +43,4 @@ interface vlan10
  ip address 10.10.10.1 255.255.255.0
  no shut
 ...
-## 🌐 VLAN & IP Schema
-![Show VLAN Brief](Show Vlan Breif.jpg)
-## 🌐 Routing Verification
-![Show IP Route](Show Ip Route.jpg)
-## 🗄️ DHCP Bindings
-![DHCP Bindings](DHCP-Pools.jpg)
 
